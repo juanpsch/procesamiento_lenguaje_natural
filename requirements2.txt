@@ -1,0 +1,4 @@
+NLTK
+setuptools
+wheel
+spacy
