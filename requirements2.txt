@@ -1,4 +1,7 @@
-NLTK
+nltk
 setuptools
 wheel
 spacy
+spacy-stanza==1.0.0
+torchsummary
+gradio
