@@ -5,3 +5,8 @@ spacy
 spacy-stanza==1.0.0
 torchsummary
 gradio
+gensim
+keras
+tensorflow
+plotly
+prettytable

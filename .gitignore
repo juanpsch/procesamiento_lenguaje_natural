@@ -1,2 +1,6 @@
 **.ipynb_checkpoints
 .venv
+embedings
+*.pkl
+*.zip
+songs_dataset
