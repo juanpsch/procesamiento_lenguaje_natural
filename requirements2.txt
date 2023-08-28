@@ -12,3 +12,6 @@ plotly
 prettytable
 PyPDF2
 np_utils
+pydot
+graphviz
+pydotplus
