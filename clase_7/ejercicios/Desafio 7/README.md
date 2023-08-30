@@ -34,11 +34,8 @@ Colab: [computer_vision_learning_exam](https://github.com/hernancontigiani/AI-Sp
 (https://github.com/juanpsch/procesamiento_lenguaje_natural/blob/main/clase_5/ejercicios/Desafio%205.ipynb)
 
 - LSTM Bot QA
+(https://github.com/juanpsch/procesamiento_lenguaje_natural/blob/main/clase_6/ejercicios/Desaf%C3%ADo6.ipynb)
 
-
-
-
-Colab: [NLP_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/nlp_exam.ipynb)
 
 # Gracias!
 Contacto: _juanpsch@gmail.com_ for any doubt.\
